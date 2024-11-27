@@ -1,4 +1,4 @@
-<h1 align="center"> 📝 Class Action AutoFill 💼 </h1>
+<h1 align="center"> 📝 Class Action Lawsuit - Web Automation 💼 </h1>
 <p align="center">Quick, easy class action form automation.</p>
 
 <p align="right">
@@ -13,14 +13,14 @@
 
 ## 🔍 Overview 
 
-The **Class Action AutoFill** tool is an **experimental automation script** designed to streamline the process of completing class action lawsuit claim forms. Currently, it supports one specific landing page, with future updates planned to expand functionality.
+The **Class Action AutoFill** tool is an **web automation script** designed to streamline the process of completing class action lawsuit claim forms. Currently, it supports some of the most commonly found landing pages, with future updates planned to expand functionality to less commonly found ones.
 
 ---
 
 ## 🛠 Features
 
 - **Automates Form Completion**: Quickly fill out personal details on class action forms.  
-- **Supports Multiple Users**: Handles claims for multiple individuals from a single configuration file.  
+- **Supports Multiple Users**: Handles claims for multiple individuals within a single run.  
 - **Python-Powered**: Built with Python and Selenium WebDriver for robust automation.  
 - **Environment Variable Configuration**: Uses a `.env` file to securely manage user data.
 
