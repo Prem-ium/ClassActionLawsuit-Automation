@@ -27,9 +27,9 @@ The **Class Action AutoFill** tool is an **experimental automation script** desi
 ---
 ## 🎥 Demo  
 
-The following is a brief demonstration of the tool’s capabilities. Please note that this is an **outdated demo**, and an updated version is coming soon!  
+The following is a brief demonstration of the tool’s capabilities. 
 
-<video src="https://github.com/user-attachments/assets/a4ef3f49-df59-44fb-9ef0-16190991dcd0" controls="controls" style="max-width: 100%; height: auto;">
+<video src="https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160" controls="controls" style="max-width: 100%; height: auto;">
   Your browser does not support video tags.
 </video>
 
