@@ -34,6 +34,12 @@ The following is a brief demonstration of the tool’s capabilities.
 https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160
 </video>
 
+GitHub Sponsors also gain access to a UI Vision project that automates the web-browser. 
+<video src="https://github.com/user-attachments/assets/c3c7bd82-1276-481d-b29e-ce323567ef0b" controls="controls" style="max-width: 100%; height: auto;">
+  Your browser does not support video tags.
+https://github.com/user-attachments/assets/c3c7bd82-1276-481d-b29e-ce323567ef0b
+</video>
+
 ---
 ## 🌟 Exclusive for Sponsors  
 
