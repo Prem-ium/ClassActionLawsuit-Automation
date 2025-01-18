@@ -26,18 +26,22 @@ The **Class Action AutoFill** tool is an **web automation script** designed to s
 
 ---
 ## 🎥 Demo  
+Below are brief demonstrations of the capabilities of the repository, which includes both a Python script and a UI.Vision automation script.
 
-The following is a brief demonstration of the tool’s capabilities. 
+### Python Script Demonstration
+This video showcases the functionality of the Python script.
 
 <video src="https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160" controls="controls" style="max-width: 100%; height: auto;">
   Your browser does not support video tags.
-https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160
+  https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160
 </video>
 
-GitHub Sponsors also gain access to a UI Vision project that automates the web-browser. 
-<video src="https://github.com/user-attachments/assets/c3c7bd82-1276-481d-b29e-ce323567ef0b" controls="controls" style="max-width: 100%; height: auto;">
+### UI.Vision Automation Script Demonstration
+GitHub Sponsors gain access to a UI.Vision project that automates web-browser tasks.
+
+<video src="https://github.com/user-attachments/assets/13cd9c4f-c1a3-4dc1-b486-d4aab8f2142a" controls="controls" style="max-width: 100%; height: auto;">
   Your browser does not support video tags.
-https://github.com/user-attachments/assets/c3c7bd82-1276-481d-b29e-ce323567ef0b
+  https://github.com/user-attachments/assets/13cd9c4f-c1a3-4dc1-b486-d4aab8f2142a
 </video>
 
 ---
