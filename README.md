@@ -26,7 +26,7 @@ The **Class Action AutoFill** tool is an **web automation script** designed to s
 
 ---
 ## 🎥 Demo  
-Below are brief demonstrations of the capabilities of the repository, which includes both a Python script and a UI.Vision automation script.
+Below are brief demonstrations of the capabilities of the private repository, which includes both a Python script and a UI.Vision automation script.
 
 ### Python Script Demonstration
 This video showcases the functionality of the Python script.
@@ -64,8 +64,8 @@ The tool leverages a `.env` file for configuration. Below are examples of the va
 ### Example `.env` File  
 ```bash
 PEOPLE='[
-    {"FirstName":"Alex","LastName":"Nas","Address":"123 Fake Street","City":"Atlanta","State":"Georgia","Country":"United States","Zip":"31083","Phone":"9083756473","Email":"alex-nas@gmail.com"},
-    {"FirstName":"Jane","LastName":"Doe","Address":"456 Real Street","City":"New York","State":"New York","Country":"USA","Zip":"10001","Phone":"1234567890","Email":"jane-doe@gmail.com"}
+    {"FirstName":"Alex","LastName":"Nas","Address":"123 Fake Street","City":"Atlanta","State":"GA","Country":"United States","Zip":"31083","Phone":"908-375-6473","Email":"alex-nas@gmail.com"},
+    {"FirstName":"Jane","LastName":"Doe","Address":"456 Real Street","City":"New York","State":"NY","Country":"USA","Zip":"10001","Phone":"123-456-7890","Email":"jane-doe@gmail.com"}
 ]'
 ```
 ### Key Fields  
