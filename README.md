@@ -1,5 +1,5 @@
 <h1 align="center"> 📝 Class Action Lawsuit - Web Automation 💼 </h1>
-<p align="center">Quick, easy class action form automation.</p>
+<p align="center">Reclaim your rights with quick and seamless class action lawsuit claim automation.</p>
 
 <p align="right">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -13,36 +13,34 @@
 
 ## 🔍 Overview 
 
-The **Class Action AutoFill** tool is an **web automation script** designed to streamline the process of completing class action lawsuit claim forms. Currently, it supports some of the most commonly found landing pages, with future updates planned to expand functionality to less commonly found ones.
+The **Class Action AutoFill** tool is an **web automation script** designed to streamline the process of completing class action lawsuit claim forms. Currently, it supports some of the most commonly found landing pages, with future updates planned to expand functionality to less commonly found ones. Features such as automated payment verification are planned; for now the UI.Vision project will preform a best attempt for verification. 
 
 ---
+## 🛠 Features  
 
-## 🛠 Features
-
-- **Automates Form Completion**: Quickly fill out personal details on class action forms.  
-- **Supports Multiple Users**: Handles claims for multiple individuals within a single run.  
-- **Python-Powered**: Built with Python and Selenium WebDriver for robust automation.  
-- **Environment Variable Configuration**: Uses a `.env` file to securely manage user data.
+- **Automates Form Completion**: Quickly fills in personal details on class action forms.  
+- **Supports Multiple Users**: Processes claims for multiple individuals in a single run.  
+- **Targets Popular Landing Pages**: Focuses on high-traffic class action lawsuit pages; sponsors receive both a Python script and a UI.Vision project file for claim automation.  
+- **Utilizes OCR Technology**: Detects and interacts with hidden HTML elements for improved automation.
 
 ---
 ## 🎥 Demo  
 Below are brief demonstrations of the capabilities of the private repository, which includes both a Python script and a UI.Vision automation script.
 
-### Python Script Demonstration
-This video showcases the functionality of the Python script.
-
-<video src="https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160" controls="controls" style="max-width: 100%; height: auto;">
-  Your browser does not support video tags.
-  https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160
-</video>
-
-### UI.Vision Automation Script Demonstration
-GitHub Sponsors gain access to a UI.Vision project that automates web-browser tasks.
-
-<video src="https://github.com/user-attachments/assets/13cd9c4f-c1a3-4dc1-b486-d4aab8f2142a" controls="controls" style="max-width: 100%; height: auto;">
-  Your browser does not support video tags.
-  https://github.com/user-attachments/assets/13cd9c4f-c1a3-4dc1-b486-d4aab8f2142a
-</video>
+<details open>
+  <summary>🎥 Video Demo: Class Action Lawsuit Automation</summary>
+    <video src="https://github.com/user-attachments/assets/13cd9c4f-c1a3-4dc1-b486-d4aab8f2142a" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support video tags.
+    <a href="https://github.com/user-attachments/assets/13cd9c4f-c1a3-4dc1-b486-d4aab8f2142a">View the video</a>
+  </video>
+  <details>
+  <summary>Python Version</summary>
+    <video src="https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support video tags.
+    <a href="https://github.com/user-attachments/assets/2b512c18-f056-47a5-902b-78712c5e1160">View the video</a>
+  </video>
+  </details>
+</details>
 
 ---
 ## 🌟 Exclusive for Sponsors  
@@ -56,10 +54,7 @@ This project is available exclusively to **Gold Sponsors** on GitHub ($10/month)
 [💛 Become a Gold Sponsor](https://github.com/sponsors/Prem-ium)  
 
 ---
-
 ## ⚙️ Environment Variables  
-
-The tool leverages a `.env` file for configuration. Below are examples of the variables you’ll need:  
 
 ### Example `.env` File  
 ```bash
@@ -67,13 +62,16 @@ PEOPLE='[
     {"FirstName":"Alex","LastName":"Nas","Address":"123 Fake Street","City":"Atlanta","State":"GA","Country":"United States","Zip":"31083","Phone":"908-375-6473","Email":"alex-nas@gmail.com"},
     {"FirstName":"Jane","LastName":"Doe","Address":"456 Real Street","City":"New York","State":"NY","Country":"USA","Zip":"10001","Phone":"123-456-7890","Email":"jane-doe@gmail.com"}
 ]'
-```
+```  
+
+The `PEOPLE` variable contains a JSON array where each object represents a claimant and their details.  
+
 ### Key Fields  
 
-- **`FirstName`**: First name of the claimant.  
-- **`LastName`**: Last name of the claimant.  
-- **`Address`**, **`City`**, **`State`**, **`Country`**, **`Zip`**: Full address details.  
-- **`Phone`**, **`Email`**: Contact information.  
+- **`FirstName`** – Claimant’s first name.  
+- **`LastName`** – Claimant’s last name.  
+- **`Address`**, **`City`**, **`State`**, **`Country`**, **`Zip`** – Full mailing address.  
+- **`Phone`**, **`Email`** – Contact details.  
 
 ---
 
@@ -85,12 +83,4 @@ For setup and detailed usage instructions, please refer to the [private sponsor 
 
 ## 🛡️ Disclaimer  
 
-- **Perjury Warning**: Submitting false claims for class action lawsuits may constitute **perjury**, a serious criminal offense. Ensure you meet all eligibility requirements before using this tool to file any claims. Misuse of this tool for ineligible claims may result in legal consequences.  
-
-- **User Responsibility**: You are solely responsible for the accuracy and legality of all information submitted using this tool. The developer has no way to verify the validity of your claims and provides no guarantees of compliance with legal or procedural requirements.  
-
-- **Developer Liability Waiver**: The developer is not liable for any misuse, abuse, or neglect related to the use of this tool. This includes, but is not limited to, account restrictions, denial of claims, or legal repercussions arising from improper use. By using this tool, you agree to accept full responsibility for your actions and release the developer from any claims of liability.  
-
-- **Mistaken Claims**: If you unintentionally file a claim for which you are not eligible, it is your duty to contact the relevant authorities (typically listed on the lawsuit’s website) to withdraw or correct the claim. Failure to do so may lead to penalties or rejection of future claims.  
-
-**Use this tool responsibly and ensure all claims align with the guidelines outlined in the class action lawsuit's terms and conditions.**  
+Submitting false claims for class action lawsuits qualifies as **perjury**. You are solely responsible for ensuring your eligibility and the accuracy of all information submitted. By using this tool, you accept full responsibility for any misuse, including claim denials or legal repercussions, and waive any claims against the developer. If you file an ineligible claim, it's your duty to contact the relevant channels to correct it. **Use this tool responsibly and ensure your claims comply with the lawsuit’s guidelines.**
